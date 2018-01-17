@@ -1,0 +1,52 @@
+*** Arrays S, I and D Table
+Index, Name, Office, Salary
+0, Alexandra, 14, 1589.36
+1, Alisa, 8, 500.59
+2, Bill, 1, 1000
+3, Clause, 9, 3056.63
+4, Damien, 14, 4579.5
+5, Dandellion, 21, 5693.25
+6, Dillan, 2, 9999.9
+7, Emily, 10, 9634.3
+8, George, 5, 600.5
+9, Gerbert, 21, 2346.27
+10, Hilary, 8, 250.6
+11, Igor, 9, 5896.6
+12, Jack, 15, 1986.3
+13, Jin, 10, 1500.6
+14, John, 11, 1479.3
+15, Jose, 4, 7569.69
+16, Monica, 5, 906.95
+17, Oprah, 3, 8500.56
+18, Rebecca, 11, 4555.55
+19, Richard, 20, 1369.54
+20, Rock, 10, 1689.2
+21, Shawn, 20, 2563.65
+22, Trump, 5, 406.8
+
+*** P array Table
+Index, Queue Num, Name, Office, Salary
+0,  1, Alisa, 8, 500.59
+1,  2, Bill, 1, 1000
+2,  3, Clause, 9, 3056.63
+3,  6, Dillan, 2, 9999.9
+4,  7, Emily, 10, 9634.3
+5,  4, Damien, 14, 4579.5
+6,  5, Dandellion, 21, 5693.25
+7,  8, George, 5, 600.5
+8,  9, Gerbert, 21, 2346.27
+9,  10, Hilary, 8, 250.6
+10,  11, Igor, 9, 5896.6
+11,  13, Jin, 10, 1500.6
+12,  12, Jack, 15, 1986.3
+13,  14, John, 11, 1479.3
+14,  15, Jose, 4, 7569.69
+15,  17, Oprah, 3, 8500.56
+16,  16, Monica, 5, 906.95
+17,  18, Rebecca, 11, 4555.55
+18,  19, Richard, 20, 1369.54
+19,  20, Rock, 10, 1689.2
+20,  21, Shawn, 20, 2563.65
+21,  0, Alexandra, 14, 1589.36
+22,  22, Trump, 5, 406.8
+
